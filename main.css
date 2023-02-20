@@ -1,0 +1,42 @@
+img{
+    
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+body{
+background-color:rgb(15, 15, 15);
+background-image: url('n.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+}
+p{
+    color: rgb(214, 85, 85);
+    text-align: center;
+}
+h1{
+    color: rgb(114, 136, 52);
+    font-family: fantasy;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+
+a:hover {
+    color: rgb(255, 145, 0);
+}
+
+
